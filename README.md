@@ -35,7 +35,7 @@ Unlock levels, collect coins and hidden treasures, fight enemies, and discover s
    ```bash
    git clone https://github.com/MihailJordanov/Hero-Hop.git
    
-3. **Open the project**
+3. **Start the project**
     ```bash
     python project.py
 
