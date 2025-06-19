@@ -31,11 +31,11 @@ Unlock levels, collect coins and hidden treasures, fight enemies, and discover s
    ```bash
    pip install -r requirements.txt
 
-2. Clone the repository:
+2. **Clone the repository:**
    ```bash
    git clone https://github.com/MihailJordanov/Hero-Hop.git
    
-Open the project
+3. **Open the project**
     ```bash
     python project.py
 
